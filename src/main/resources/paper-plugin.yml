@@ -1,0 +1,9 @@
+name: Square Auth
+version: '0.0.1-Alpha'
+main: alyva.yuzari.squareauth.Main
+api-version: '1.20'
+prefix: SquareAuth |
+load: STARTUP
+authors: [ Alyvaaa ]
+description: Minecraft auth based on website plugins
+website: www.squareville.site
